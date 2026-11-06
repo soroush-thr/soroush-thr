@@ -4,12 +4,12 @@ ML Engineer building LLM systems, time-series forecasting models and applied dee
 **Experience areas:** LLM orchestration & retrieval · financial time-series forecasting · fault diagnosis & industrial DL · multi-agent RL
 
 ### 🛠 Stack
-**Languages:** Python · SQL 
-**ML / DL:** PyTorch · TensorFlow/Keras · scikit-learn · XGBoost · PyMC · OpenCV · librosa
-**LLMs & NLP:** Hugging Face Transformers · sentence-transformers · LangChain · CrewAI · OpenAI / OpenRouter APIs · Ollama · MCP
-**Data & retrieval:** pandas · NumPy · SQLite · PostgreSQL/PostGIS · RabbitMQ
-**Cloud & deployment:** AWS (Lambda, Batch, CDK, Step Functions) · Docker · FastAPI · Gradio · GitHub Pages
-**Apps & viz:** Next.js · Plotly · PyQt6
+- **Languages:** Python · SQL 
+- **ML / DL:** PyTorch · TensorFlow/Keras · scikit-learn · XGBoost · PyMC · OpenCV · librosa
+- **LLMs & NLP:** Hugging Face Transformers · sentence-transformers · LangChain · CrewAI · OpenAI / OpenRouter APIs · Ollama · MCP
+- **Data & retrieval:** pandas · NumPy · SQLite · PostgreSQL/PostGIS · RabbitMQ
+- **Cloud & deployment:** AWS (Lambda, Batch, CDK, Step Functions) · Docker · FastAPI · Gradio · GitHub Pages
+- **Apps & viz:** Next.js · Plotly · PyQt6
 
 ### 📄 Publications
 - *Research trend prediction in computer science publications: a deep neural network approach*, **Scientometrics** (2022)
