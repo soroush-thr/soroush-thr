@@ -1,9 +1,22 @@
-### Hi, I'm Soroush 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="Soroush Taheri, ML Engineer: LLM systems, forecasting, deep learning" width="100%">
+</picture>
+
+<p>
+  <a href="https://linkedin.com/in/soroush-thr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://scholar.google.com/citations?user=hhoL598AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://orcid.org/0000-0002-5885-3036"><img src="https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white" alt="ORCID"></a>
+  <a href="https://soroush-thr.github.io"><img src="https://img.shields.io/badge/Website-222222?logo=githubpages&logoColor=white" alt="Website"></a>
+</p>
+
 ML Engineer building LLM systems, time-series forecasting models and applied deep learning.
 
 **Experience areas:** LLM orchestration & retrieval · financial time-series forecasting · fault diagnosis & industrial DL · multi-agent RL
 
 ### 🛠 Stack
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,aws,docker,fastapi,postgres,sqlite,nextjs,ts,git&perline=12" alt="Tech stack" />
+
 - **Languages:** Python · SQL 
 - **ML / DL:** PyTorch · TensorFlow/Keras · scikit-learn · XGBoost · PyMC · OpenCV · librosa
 - **LLMs & NLP:** Hugging Face Transformers · sentence-transformers · LangChain · CrewAI · OpenAI / OpenRouter APIs · Ollama · MCP
@@ -26,4 +39,4 @@ ML Engineer building LLM systems, time-series forecasting models and applied dee
 - **bert-gpt-analyzer**: financial-news sentiment, NER and automated reports
 - **Auto-DJ**: playlists from acoustic similarity (MFCC, librosa)
 
-📫 [LinkedIn](https://linkedin.com/in/soroush-thr) · [Website](https://soroush-thr.github.io)
+<sub>Thanks for stopping by.</sub>
